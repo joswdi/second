@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-color: #Faf8da;
+    font-family: "Open Sans", sans-serif;
+}
+.header {
+    text-align: center;
+}
+.header-title {
+    font-size: 70px;
+    color: #205D76;
+}
+.preview {
+    width: 650px;
+    padding-left: 350px;
+}
+.store-section {
+display: flex;
+display: -webkit-flex;
+margin: 50px auto;
+width: 450px;
+}
+.building {
+    width: 200px;
+}
+.store-details {
+    margin-left: 30px;
+}
+.category-heading {
+    font-size: 30px;
+    color: #205D76;
+}
+.store-list {
+    padding-left: 15px;
+    color: #FFC122;
+}
+.store-name {
+    margin-bottom: 10px;
+}
+.store-link {
+    font-size: 20px;
+    color: #EA6E2F;
+}
+.primary-footer {
+    padding: 2px;
+    background-color: #FFC122;
+    text-align: center;
+}
+.created-by {
+    font-size: 20px;
+    color: #FFFFFF;
+}
